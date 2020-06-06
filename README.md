@@ -4,4 +4,4 @@ VSChill is a Visual Studio Code theme based on Nord, specifically edited to fit 
 
 # Preview
 
-![](preview.png)
+![](https://raw.githubusercontent.com/matthieu-locussol/VSChill/master/preview.png)

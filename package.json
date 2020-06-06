@@ -1,6 +1,10 @@
 {
   "name": "vschill",
   "displayName": "vschill",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matthieu-locussol/VSChill.git"
+  },
   "publisher": "matthieu-locussol",
   "description": "VSChill is a color theme for VSCode.",
   "version": "0.0.1",

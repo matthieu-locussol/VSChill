@@ -1,0 +1,22 @@
+{
+  "name": "vschill",
+  "displayName": "vschill",
+  "publisher": "matthieu-locussol",
+  "description": "VSChill is a color theme for VSCode.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.45.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VSChill",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VSChill-color-theme.json"
+      }
+    ]
+  }
+}

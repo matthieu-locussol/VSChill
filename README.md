@@ -4,18 +4,20 @@ VSChill is a Visual Studio Code theme based on Nord, specifically edited to fit 
 
 # Notes
 
-## Preferences
+## Recommended settings
 
-In addition to this theme, I use these settings:
+In addition to this color theme, I recommend using these settings:
 
 ```
 "editor.fontFamily": "'Fira Code iScript', 'Fira Code', Consolas, 'Courier New', monospace",
+"editor.fontLigatures": true,
 "editor.fontWeight": "400",
 "editor.cursorStyle": "line",
 "editor.cursorWidth": 5,
 "editor.cursorBlinking": "smooth",
 "editor.minimap.enabled": false,
 "breadcrumbs.enabled": false,
+"window.zoomLevel": 1,
 ```
 
 ## Recommended font

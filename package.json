@@ -1,5 +1,6 @@
 {
   "name": "vschill",
+  "icon": "icon.png",
   "displayName": "VSChill",
   "repository": {
     "type": "git",

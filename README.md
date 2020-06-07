@@ -4,7 +4,7 @@ VSChill is a Visual Studio Code theme based on Nord, specifically edited to fit 
 
 # Notes
 
-## Recommended settings
+### Recommended settings
 
 In addition to this color theme, I recommend using these settings:
 
@@ -20,11 +20,11 @@ In addition to this color theme, I recommend using these settings:
 "window.zoomLevel": 1,
 ```
 
-## Recommended font
+### Recommended font
 
 Font used: [Fira Code iScript (GitHub repository)](https://github.com/kencrocken/FiraCodeiScript)
 
-## Recommended extensions
+### Recommended extensions
 
 Still based on my preferences, I would advice:
 

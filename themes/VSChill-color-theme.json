@@ -2,6 +2,12 @@
   "name": "VSChill",
   "type": "dark",
   "editor.fontFamily": "'Fira Code iScript', 'Fira Code', Consolas, 'Courier New', monospace",
+  "editor.fontWeight": "400",
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.cursorBlinking": "smooth",
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
   "colors": {
     "focusBorder": "#3b4252",
     "foreground": "#d8dee9",
